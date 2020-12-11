@@ -1,0 +1,2 @@
+inputfile	plugins/CSVTrim/example/A.csv
+start		3
